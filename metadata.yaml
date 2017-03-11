@@ -1,5 +1,8 @@
 _repo: Rhymes-of-a-Red-Cross-Man_315
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Service, Robert W. (Robert William)
@@ -13,6 +16,8 @@ description: Based on Robert Service's experiences as a Red Cross ambulance driv
   in France during World War I, this moving collection of poems eloquently captures
   the patriotism, hardship, and death experienced by the soldiers, as well as their
   love of home, family, and their fellow soldiers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/315#Rhymes-of-a-Red-Cross-Man
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '1995-08-01'
 gutenberg_type: Text
